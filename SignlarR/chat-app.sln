@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chat-app", "chat-app\chat-app.csproj", "{79E12710-5661-40EA-97BF-D0979055ADB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chat-app.DataAccess", "chat-app.DataAccess\chat-app.DataAccess.csproj", "{438D7A31-CA5F-4863-852E-941610237D59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chat-app.Models", "chat-app.Models\chat-app.Models.csproj", "{84985359-0234-442C-A7D3-AF3198D65FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E12710-5661-40EA-97BF-D0979055ADB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E12710-5661-40EA-97BF-D0979055ADB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E12710-5661-40EA-97BF-D0979055ADB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E12710-5661-40EA-97BF-D0979055ADB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438D7A31-CA5F-4863-852E-941610237D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438D7A31-CA5F-4863-852E-941610237D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438D7A31-CA5F-4863-852E-941610237D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438D7A31-CA5F-4863-852E-941610237D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84985359-0234-442C-A7D3-AF3198D65FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84985359-0234-442C-A7D3-AF3198D65FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84985359-0234-442C-A7D3-AF3198D65FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84985359-0234-442C-A7D3-AF3198D65FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6064ADB-E8D5-41F2-B34B-6DE866CAC3E8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/dotnettridhya
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = chat-app.DataAccess\\chat-app.DataAccess.csproj
+		SccProjectName1 = chat-app.DataAccess
+		SccLocalPath1 = chat-app.DataAccess
+		SccProjectUniqueName2 = chat-app.Models\\chat-app.Models.csproj
+		SccProjectName2 = chat-app.Models
+		SccLocalPath2 = chat-app.Models
+		SccProjectUniqueName3 = chat-app\\chat-app.csproj
+		SccProjectName3 = chat-app
+		SccLocalPath3 = chat-app
+	EndGlobalSection
+EndGlobal

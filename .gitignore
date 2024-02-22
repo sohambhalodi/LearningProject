@@ -1,0 +1,39 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SignlarR/$tf
+/SignlarR/.vs
+/SignlarR/chat-app/bin/Debug/net6.0
+/SignlarR/chat-app/obj
+/SignlarR/chat-app.DataAccess/bin/Debug/net6.0
+/SignlarR/chat-app.DataAccess/obj
+/SignlarR/chat-app.Models/bin/Debug/net6.0
+/SignlarR/chat-app.Models/obj
+/SignlarR/chat-app.Utility/obj
+/RDLCWithFramework/.vs
+/RDLCWithFramework/Report/bin/Debug/net6.0
+/RDLCWithFramework/Report/obj
+/RDLCWithFramework/ReportWithRDLC/bin/Debug/net6.0
+/RDLCWithFramework/ReportWithRDLC/obj
+/RabbitMQ/RabbitMqWithRouting/.vs
+/RabbitMQ/RabbitMqWithRouting/AnalyticsConsumer/bin/Debug/net6.0
+/RabbitMQ/RabbitMqWithRouting/AnalyticsConsumer/obj
+/RabbitMQ/RabbitMqWithRouting/Consumer/bin/Debug/net6.0
+/RabbitMQ/RabbitMqWithRouting/Consumer/obj
+/RabbitMQ/RabbitMqWithRouting/PaymentsConsumer/bin/Debug/net6.0
+/RabbitMQ/RabbitMqWithRouting/PaymentsConsumer/obj
+/RabbitMQ/RabbitMqWithRouting/Producer/bin/Debug/net6.0
+/RabbitMQ/RabbitMqWithRouting/Producer/obj
+/Basic Oops Concept/.vs
+/Basic Oops Concept/ConsoleApp/bin/Debug/net7.0
+/Basic Oops Concept/ConsoleApp/obj
+/Basic Oops Concept/ConsoleAppFram/bin/Debug
+/Basic Oops Concept/ConsoleAppFram/obj/Debug
+/Basic Oops Concept/NET7/bin/Debug/net7.0
+/Basic Oops Concept/NET7/obj
+/Basic Oops Concept/OOPS/bin/Debug
+/Basic Oops Concept/OOPS/obj/Debug
+/Integration with SharePoint/.vs/SharePointFileUpload
+/Integration with SharePoint/SharePointFileUpload/bin/Debug/net6.0
+/Integration with SharePoint/SharePointFileUpload/obj

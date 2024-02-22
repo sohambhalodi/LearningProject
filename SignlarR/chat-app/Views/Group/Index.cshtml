@@ -1,0 +1,29 @@
+﻿@model IEnumerable<GroupViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container my-3">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    Add Group
+                </div>
+                <div class="card-body">
+                    <div class="list-group">
+                        @foreach (var group in Model)
+                        {
+                            <div class="input-group mb-3">
+                                <a asp-controller="Group" asp-action="Index" asp-route-id="@group.Id" class="list-group-item list-group-item-action" style="width: 63%;">@group.Name</a>
+                                <div class="input-group-append">
+                                    <span class="input-group-text" id="basic-addon2">@group.status</span>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
